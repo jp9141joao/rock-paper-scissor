@@ -18,9 +18,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
+  assets:
+    - images/default.png
+    - images/paper.png
+    - images/rock.png
+    - images/scissor.png
   # fonts:
   #   - family: Schyler
   #     fonts:
