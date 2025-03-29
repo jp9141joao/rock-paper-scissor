@@ -55,7 +55,7 @@ This is a Flutter-based application that allows users to play JokenPo (rock, pap
   |-- scissors.png
   |-- default.png
   |-- screenshot-app.png
-  |-- video-app.png
+  |-- gif-demostration-app.gif
 ```
 
 ## Images and Demonstration
@@ -66,5 +66,5 @@ This is a Flutter-based application that allows users to play JokenPo (rock, pap
 
 ### Demonstration Video:
 
-![App Demo](images/video-app.mp4)
+![App Demo](images/gif-demostration-app.gif)
 
