@@ -1,19 +1,69 @@
-# JokenPo
+# JokenPo in Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Project Description
 
-## Getting Started
+This is a Flutter-based application that allows users to play JokenPo (rock, paper, scissors) against the app. The project follows best development practices using Material Design and a modularized structure for better understanding and code organization.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Intuitive interface.
+- Choice of moves between rock, paper, and scissors.
+- Display of the app's choice.
+- Indication of the winner.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
 
-## Getting Started: FlutLab - Flutter Online IDE
+- Flutter
+- Dart
+- Material Design
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## How to Run the Project
+
+1. Clone the repository:
+
+```bash
+  git clone https://github.com/your-username/jokenpo-flutter.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+  cd jokenpo-flutter
+```
+
+3. Install dependencies:
+
+```bash
+  flutter pub get
+```
+
+4. Run the application:
+
+```bash
+  flutter run
+```
+
+## Project Structure
+
+```
+/lib
+  |-- main.dart  # Main application file
+  |-- game.dart  # File containing game logic
+/assets/images
+  |-- rock.png
+  |-- paper.png
+  |-- scissors.png
+  |-- default.png
+  |-- screenshot-app.png
+```
+
+## Images and Demonstration
+
+### Screenshots:
+
+[images/screenshot-app.png]
+
+### Demonstration Video:
+
+[images/video-app.mp4]
+
