@@ -17,27 +17,20 @@ class _GameState extends State<Game> {
     var number = Random().nextInt(3);
     var systemChoice = options[number];
 
-    print(userChoice);
-    print(systemChoice);
-
     switch (systemChoice) {
       case "paper":
-        print(10);
         setState(() {
           _appImage = AssetImage("images/paper.png");
         });
         break;
 
       case "rock":
-        print(20);
         setState(() {
           _appImage = AssetImage("images/rock.png");
         });
         break;
 
       case "scissor":
-        print(30);
-
         setState(() {
           _appImage = AssetImage("images/scissor.png");
         });
