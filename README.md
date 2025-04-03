@@ -22,7 +22,7 @@ This is a Flutter-based application that allows users to play JokenPo (rock, pap
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/jokenpo-flutter.git
+  git clone https://github.com/jp9141joao/rock-paper-scissor.git
 ```
 
 2. Navigate to the project folder:
